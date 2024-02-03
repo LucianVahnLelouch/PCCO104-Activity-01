@@ -3,6 +3,7 @@ using System;
 class Program {
   public static void Main (string[] args) {
     string FirstName = "Shinji";
-    Console.WriteLine ("Hello World I am " + FirstName);
+    string LastName = "Monton";
+    Console.WriteLine ("Hello World I am " + FirstName + " " +LastName);
   }
 }
